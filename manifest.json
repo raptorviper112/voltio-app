@@ -1,0 +1,13 @@
+{
+  "background_color": "#18b481",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Voltio",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Voltio",
+  "start_url": "/",
+  "theme_color": "#ca2323",
+  "id": "/voltio-app/",
+  "description": "Aplicación de gestión para electricistas"
+}
